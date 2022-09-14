@@ -1,4 +1,4 @@
-# ProjetoAPPdeFilmes
+# Projeto CineFlix
 
 Projeto realizado para fins acadêmicos utilizando ReactJS onde foi criado um site de filmes utilizando a api disponibilizada no site [The Movie DB](themoviedb.org/?language=pt-BR).
 
